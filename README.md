@@ -1,4 +1,4 @@
-# Olá! Eu sou o Paulo Alfradique 👋
+# Olá! Eu sou o Paulo 👋
 
 - 🎓 Estudante e calouro em Ciência da Computação;
 - 🕹️ Procurando desenvolver Projetos práticos usando **RPG/MMORPG** para aprender programação;
