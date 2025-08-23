@@ -5,8 +5,7 @@
 - 🐍 Foco atual: **Python**, **APIs**, **Banco de Dados**, **Web (Flask)**
 
 ## Projetos em destaque:
-- **Daily Routine Tracker - GW2 (CLI):** meu primeiro aplicativo de linha de comando para gerenciar rotinas diárias em um dos meus MMORPG favoritos (Guild Wars 2)
-· Em breve: Dashboard web + integração com API oficial do GW2.
+- **Daily Routine Tracker - GW2 (CLI):** meu primeiro aplicativo de linha de comando para gerenciar as rotinas diárias de Guild Wars 2 (MMORPG).
 
 ## Tecnologias que estou estudando
 Python · Git/GitHub · SQL · Flask · HTTP/APIs · Automação
