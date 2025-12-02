@@ -1,12 +1,35 @@
 # Olá! Eu sou o Paulo 👋
 
-- 🎓 Estudante e calouro em Ciência da Computação.
-- 🐍 Foco atual: **Automação industrial**, **APIs**, **Banco de Dados**, **Sistemas Embarcados**
+Atualmente desenvolvendo projetos em **Java** e **Spring Boot**, com foco em APIs REST, lógica de programação e arquitetura limpa.  
+Curso **Ciência da Computação** (1 semetre concluído) e estou construindo meu portfólio com projetos simples, mas bem estruturados, para evoluir de forma sólida.
 
-## Projetos em destaque:
-- **Daily Routine Tracker - GW2 (CLI):** meu primeiro aplicativo de linha de comando para gerenciar as rotinas diárias de Guild Wars 2, um MMORPG que jogo.
+---
 
-## Tecnologias que estou estudando
-Python  · SQL · Flask · HTTP/APIs · Automação
+## 🚀 Tecnologias que estudo e utilizo
+- **Java**
+- **Spring Boot**
+- **Git & GitHub**
+- **API REST**
+- **Lógica e estruturação de projetos**
 
-> Sempre aberto a feedbacks e ideias! 
+---
+
+## 📌 Projetos em destaque
+| Projeto | Descrição |
+|--------|-----------|
+| **DeliveryControl API** | API simples para gerenciamento de entregas. Estudo de organização de projeto, DTOs e camadas. |
+| **Todo API (Java)** | CRUD básico usando Spring Boot. Primeiro contato com criação de API com boas práticas. |
+| **Projetos Python (iniciais)** | Scripts e exercícios que me ajudaram a começar a programar. |
+
+👉 Veja meus repositórios fixados no topo do perfil para os mais atualizados.
+
+---
+
+## 🎯 O que estou buscando
+Aprender backend de forma consistente, construir projetos reais e conquistar minha primeira oportunidade como **estagiário ou dev júnior backend**.
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/paulo-alfradique/
+- GitHub: https://github.com/pauloalfradique98
